@@ -25,7 +25,13 @@
 1. 계정 관리 2. 파일 및 디렉토리 관리 3. 서비스 관리 4. 패치 관리 5. 로그 관리
 
 
+
+참고 링크
+
 링크 : http://www.freebuf.com/sectool/123094.html
 
 링크 : 
 https://www.krcert.or.kr/data/guideView.do?bulletin_writing_sequence=27369&queryString=cGFnZT0zJnNvcnRfY29kZT0mc29ydF9jb2RlX25hbWU9JnNlYXJjaF9zb3J0PXRpdGxlX25hbWUmc2VhcmNoX3dvcmQ9
+
+
+링크 : https://www.kisa.or.kr/public/laws/laws3.jsp
