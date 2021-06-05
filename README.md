@@ -1,4 +1,4 @@
-# ISMS_repository
+# ISMS_repository(인프라 보안)
 
   Linux 서버 취약점 점검 스크립트
 
