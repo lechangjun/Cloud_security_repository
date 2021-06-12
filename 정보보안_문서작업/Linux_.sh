@@ -1,7 +1,6 @@
 #!/bin/sh
 
 # Linux Vulnerability Scanner
-# OrangeSecurity Linux (CentOS 6,7기반) 취약점 점검
 
 rm -rf /tmp/Orange/tmp
 mkdir -p /tmp/Orange/tmp
