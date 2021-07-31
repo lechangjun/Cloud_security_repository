@@ -2,9 +2,9 @@
 
 # Linux Vulnerability Scanner
 
-rm -rf /tmp/Orange/tmp
-mkdir -p /tmp/Orange/tmp
-TMP=/tmp/Orange/tmp
+rm -rf /tmp/lee/tmp
+mkdir -p /tmp/lee/tmp
+TMP=/tmp/lee/tmp
 
 
 
