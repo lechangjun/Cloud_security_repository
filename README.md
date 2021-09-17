@@ -2,6 +2,8 @@
 
   [Linux 서버 취약점 점검 스크립트 자료](https://github.com/lechangjun/ISMS_security_repository/blob/main/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB_%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A5%E1%86%B8/Linux_.sh)
 
+![image](https://user-images.githubusercontent.com/68671394/133751960-4de520df-e678-4813-930d-4c1fefdaa490.png)
+
 #### ⚒️ 취약점 점검 스크립트 자료 
 
        주요정보통신시설기반 리눅스 서버 기술적 취약점 분석 평가 상세 가이드에 기재된 
